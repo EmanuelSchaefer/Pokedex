@@ -1,0 +1,94 @@
+@media (max-width: 1555px) {
+    .Tbody {
+        font-size: 2.5vh;
+    }
+}
+
+@media (max-width: 1366px) {
+    .pokeSingleCardF {
+       width: 30vw; 
+    }
+
+    .pokeSingleCardH {
+        width: 30vw;
+    }
+}
+
+@media (max-width: 917px) {
+    .Tbody {
+        font-size: 2vh;
+    }
+
+    .pokeSingleCardF {
+        height: 27vh;
+    }
+
+    .Ntable {
+        height: 25vh;
+    }
+}
+
+@media (max-width: 765px) {
+    .pokeSingleCardF {
+        width: 41vw;
+    }
+
+    .pokeSingleCardH {
+        width: 41vw;
+    }
+
+    .btn {
+        width: 55vw;
+    }
+}
+
+@media (max-width: 668px) {
+    .padding-left-img {
+        display: none;
+    }
+
+    .img-menu {
+        display: none;
+    }
+
+    header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .Content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .PositionsContainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pokeSingleCardF {
+        width: 70vw;
+    }
+
+    .pokeSingleCardH {
+        width: 70vw;
+    }
+
+    .btn {
+        width: 55vw;
+    }
+}
+
+@media (max-width: 375px) {
+    .PositionsContainer {
+        height: 25vh;
+        width: 55vw;
+    }
+
+    .btn {
+        width: 55vw;
+    }
+}
